@@ -1,12 +1,12 @@
-### ATM Machine
+# ATM Machine
 
-## This Java program simulates basic ATM functionalities like account creation, management of multiple accounts(deposit, withdraw, change PIN), transaction history tracking, and account enumeration using console-based menus and data structures like ArrayList and HashMap.
-## Packages Imported:
+### This Java program simulates basic ATM functionalities like account creation, management of multiple accounts(deposit, withdraw, change PIN), transaction history tracking, and account enumeration using console-based menus and data structures like ArrayList and HashMap.
+### Packages Imported:
 - java.util.ArrayList: For storing transaction history.
 - java.util.HashMap: For storing account details.
 - java.util.Map: For the map interface.
 - java.util.Scanner: For user input.
-## Classes and Functions:
+### Classes and Functions:
 - Account Class:
 variables:
 - balance: Stores the account balance.
@@ -30,7 +30,7 @@ Variables:
 
 
 
-## Main Program Flow:
+### Main Program Flow:
 1.Main Menu:
  - Options: Create account, enter account number, view all accounts, exit.
  - Input taken using Scanner.
@@ -47,7 +47,7 @@ Variables:
 - Ends the program.
 
 
-## Java Functionalities Used
+### Java Functionalities Used
 - Classes and Objects: Account and ATM classes.
 - Encapsulation: Private variables with public methods.
 - Collections: ArrayList for transactions, HashMap for accounts.
