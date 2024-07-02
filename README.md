@@ -34,6 +34,7 @@ Variables:
 1.Main Menu:
  - Options: Create account, enter account number, view all accounts, exit.
  - Input taken using Scanner.
+   
 2.Create Account:
 - User inputs account number, balance, and PIN.
 - Account is created and added to the map.
@@ -41,8 +42,10 @@ Variables:
 3.Enter Account Number:
 - User inputs account number and PIN.
 - If correct, displays sub-menu with options to check balance, deposit, withdraw, change PIN, view history, or exit.
+  
 4.View All Account Numbers:
 - Shows all accounts or "No accounts" if none exist.
+  
 5.Exit:
 - Ends the program.
 
