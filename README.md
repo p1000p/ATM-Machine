@@ -7,7 +7,7 @@
 - java.util.Map: For the map interface.
 - java.util.Scanner: For user input.
 ### Classes and Functions:
-- Account Class:
+#### Account Class:
 variables:
 - balance: Stores the account balance.
 - pin: Stores the account PIN.
@@ -20,7 +20,7 @@ Methods:
 - changePin(): Changes the PIN.
 - printTransactionHistory(): Shows the transaction history.
 
-  ATM Class:
+ #### ATM Class:
 Variables:
 - accounts: Stores accounts.
  Methods:
